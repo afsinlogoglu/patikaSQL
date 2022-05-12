@@ -1,0 +1,3 @@
+# patikaSQL
+
+www.patika.dev
